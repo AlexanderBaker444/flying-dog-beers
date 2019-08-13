@@ -5,8 +5,8 @@ import plotly.graph_objs as go
 
 ########### Set up the chart
 beers=['Fire', 'Water', 'Earth', 'Wind']
-ibu_values=[2, 4, 16, 256]
-abv_values=[5.4, 7.1, 9.2, 4.3]
+ibu_values=[2, 4, 16, 4]
+abv_values=[5.4, 7.1, 9.2, 2]
 color1='red'
 color2='blue'
 
